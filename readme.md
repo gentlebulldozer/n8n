@@ -26,7 +26,7 @@ Tested on Almalinux 8, 9
 ## Installation
 
 1. **Download the script**
-wget https://raw.githubusercontent.com/gentlebulldozer/n8n/main/n8n-auto-install.sh
+wget https://raw.githubusercontent.com/gentlebulldozer/n8n/refs/heads/main/n8n-auto-install.sh
 
 2. **Make executable**
 chmod +x n8n-auto-install.sh
@@ -57,7 +57,7 @@ sudo npm update -g n8n
 sudo systemctl restart n8n
 
 # Update script
-wget -O n8n-auto-install.sh https://raw.githubusercontent.com/gentlebulldozer/n8n/main/n8n-auto-install.sh
+wget -O n8n-auto-install.sh https://raw.githubusercontent.com/gentlebulldozer/n8n/refs/heads/main/n8n-auto-install.sh
 
 ## Troubleshooting
 Common Issues
